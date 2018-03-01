@@ -45,7 +45,7 @@
     "webpack-custom-stats-patch": "github:sopherio/webpack-custom-stats-patch"
   },
   "peerDependencies": {
-    "webpack": "~2.x"
+    "webpack": "~2.x - ~4.x"
   },
   "ava": {
     "files": [
